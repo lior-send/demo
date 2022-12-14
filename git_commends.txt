@@ -1,0 +1,38 @@
+clone - take a repository that is hosted somewhere  - like github
+
+add  - track your files in git
+
+commit - save your file in git
+
+push - to github 
+
+pull - download changees from remote repo to your local machine, the opposite of push
+
+///opreritions
+track the file than save
+
+///trminal:
+git
+
+git status
+
+git clone "http clone from git"
+
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> git add .
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> git status
+
+add new branches
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> git branch
+* main
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> git checkout -b feature 
+Switched to a new branch 'feature'
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> git branch
+* feature
+  main
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> git checkout
+PS C:\Users\user\Dropbox\lior\אקדמיה\github\demo> 
+
+
+
+
+
